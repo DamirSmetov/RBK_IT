@@ -1,17 +1,3 @@
-<p align="center">
-  <img src="repo_files/sql_stories_logo.png" width="1000"/>
-  <br>
-  <em>Retail Scenario Data Generator + QA Framework</em>
-</p>
-
-<p align="center">
-  <img alt="MIT License" src="https://img.shields.io/badge/license-MIT-blue">
-  <img alt="Status" src="https://img.shields.io/badge/status-alpha-lightgrey">
-  <img alt="Version" src="https://img.shields.io/badge/version-v0.3.1-blueviolet">
-</p>
-
----
-
 # 🛒 Ecommerce Sales Database Generator
 
 A YAML-configurable Python engine for generating synthetic, relational e-commerce databases — designed for SQL training, analytics storytelling, and realistic pipeline testing. This system goes beyond raw data: it simulates a full customer journey from browsing session to purchase, builds linked tables with referential integrity, and includes configurable messiness and built-in QA test suites to mirror real-world data challenges.
