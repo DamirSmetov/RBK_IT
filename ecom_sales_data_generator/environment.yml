@@ -1,0 +1,20 @@
+name: ecom_data_gen
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pandas
+  - pyyaml
+  - faker
+  - jupyter
+  - sqlite
+  - numpy
+  - ipykernel
+  - pip:
+      - black
+      - ruff
+      - pytest
+      - matplotlib
+      - plotly
